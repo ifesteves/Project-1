@@ -1,18 +1,4 @@
-Conteúdo 
-Introdução
-Etapa 1. Visão geral dos dados
-Conclusões
-Etapa 2. Pré-processamento de dados
-2.1 Estilo do cabeçalho
-2.2 Valores ausentes
-2.3 Duplicados
-2.4 Conclusões
-Etapa 3. Teste das hipóteses
-3.1 Hipótese 1: atividade dos usuários nas duas cidades
-3.2 Hipótese 2: preferências musicais na segunda e sexta-feira
-3.3 Hipótese 3: preferências de gênero em Springfield e Shelbyville
-Conclusões
-1  Introdução 
+1  Introdução:
 O trabalho de um analista é analisar dados para obter percepções valiosas dos dados e tomar decisões fundamentadas neles. Esse processo consiste em várias etapas: visão geral de dados, pré-processamento de dados e testes de hipóteses.
 
 Sempre que fazemos uma pesquisa, precisamos formular uma hipótese que depois poderemos testar. Às vezes nós aceitamos essas hipóteses; outras vezes, nós as rejeitamos. Para tomar as decisões certas, um negócio deve ser capaz de entender se está fazendo as suposições certas ou não.
@@ -40,4 +26,5 @@ Neste projeto, preparamos um pequeno desafio para você. Incluímos uma nova est
 
 Por exemplo, digamos que temos duas marcas temporais: dt1 = "12:00:00" and dt2 = "06:00:00". Queremos comparar essas duas marcas temporais e ver qual delas é mais tarde.
 
+Podemos compará-las usando os operadores padrão de comparação (<, >, <=, >=, ==, !=). Execute a célula de código abaixo para comparar as duas marcas temporais:
 Podemos compará-las usando os operadores padrão de comparação (<, >, <=, >=, ==, !=). Execute a célula de código abaixo para comparar as duas marcas temporais:
